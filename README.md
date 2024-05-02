@@ -29,11 +29,8 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/>
-<img src="https://icons8.com/icon/12599/github" alt="MUI" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/figma.png" alt="figma" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/tailwind.png" alt="tailwind" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="40" height="40"/>
+
 
 </p>
 <hr>
